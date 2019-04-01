@@ -28,15 +28,15 @@ section {
 
 body {
   background: #edeff0;
-  padding: 50px 0 0;
+  padding: 30px 0 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 62.5%;
+  font-size: 70.5%;
 }
 
 h1,
 h2 {
   font-size: 2.4em;
-  font-weight: 400;
+  font-weight: 350;
   margin-bottom: 8px;
   color: #384047;
   line-height: 1.2;
@@ -47,7 +47,7 @@ h2 {
 }
 
 p {
-  color: #8d9aa5;
+  color: #8d9ba5;
   font-size: 1.4em;
   margin-bottom: 15px;
   line-height: 1.4;
@@ -55,7 +55,7 @@ p {
 
 .container {
   box-sizing: border-box;
-  width: 90%;
+  width: 80%;
   max-width: 1080px;
   background: white;
   padding: 30px 15px;
@@ -70,7 +70,7 @@ p {
 
 .button {
   background: #3f8abf;
-  padding: 8px 18px;
+  padding: 10px 18px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.4em;
   color: white;
